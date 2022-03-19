@@ -1,0 +1,5 @@
+b=int(input("introduce el valor b:   "))
+i=float(input("introduce el valor i:   "))
+a=int(input("introduce el valor a:   "))
+vf=b*(1+(i)/100)**(a)
+print(vf)
