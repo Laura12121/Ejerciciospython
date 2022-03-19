@@ -8,9 +8,9 @@ elif volar=="si" and humano=="si" and mascara=="no":
     print("captain marvel")
 elif volar=="si" and humano=="no" and mascara=="si":
         print("Roman accuser")
-elif volar=="si" and humano=="si" and mascara=="no": 
+elif volar=="si" and humano=="no" and mascara=="no": 
          print("Vision")
-elif volar=="si" and humano=="no" and mascara=="si":
+elif volar=="no" and humano=="si" and mascara=="si":
          print("Spiderman")
 elif volar=="no" and humano=="si" and mascara=="no":
   print("Hulk")
