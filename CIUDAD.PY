@@ -1,16 +1,11 @@
 ciudad= dict (
-        tolima ="1234",
-        medellin ="345",
-        pereira = "3344"
+        tolima =133,
+        medellin =2569,
+        pereira = 467269
 )
+lista=list()
 
-print(ciudad)
-
-
-for elemento in ciudad:
-
-        "suma" +=elemento 
-
-return "suma" 
-
-print("suma"(ciudad))
+for i in ciudad.values():
+    lista.append(i)
+    sum(lista)
+print(i)
